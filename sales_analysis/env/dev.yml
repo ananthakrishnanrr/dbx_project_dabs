@@ -1,0 +1,6 @@
+variables:
+  catalog: dev_catalog
+  schema: bronze
+  cluster_id: 1234-dev
+  storage_account: devstorage
+  env: dev
